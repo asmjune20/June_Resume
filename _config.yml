@@ -5,15 +5,13 @@ title: June Cho Resume
 email: junecho2020@u.northwestern.edu
 # description: 
 baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
+url: "http://asmjune20.github.io"
 name: June Hee Cho
 job: front end engineer
-location: Evanston
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+location: Evanston, IL
+languages: Python
+LinkedIn: https://www.linkedin.com/in/june-cho-89439519b/
+
 
 # Build settings
 markdown: kramdown
