@@ -1,14 +1,14 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+title: June Cho Resume
+email: junecho2020@u.northwestern.edu
+# description: 
 baseurl: ""
 url: "http://mattcouchman.co.uk/jekyll-resume"
-name: Matt Couchman
+name: June Hee Cho
 job: front end engineer
-location: Birmingham, UK
+location: Evanston
 languages: HTML, CSS and Javascript
 twitter_username: mattcouchman
 github_username:  mattcouchman
